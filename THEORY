@@ -1,0 +1,25 @@
+ans:1
+
+inside x
+inside y
+timer expired
+
+ans:2
+
+inside x
+inside y
+timer 2 expired
+timer 1 expired
+
+ans:3
+
+inside x
+timer 2 expired
+inside y
+timer 1 expired
+
+above code execution 
+
+first the js wil store the callback function with its timer from set timeout to a space 
+and proceed with executing next line of codes and when the timer of the call back function 
+goes off js will then proceed with executing our call back functions of set time out.
